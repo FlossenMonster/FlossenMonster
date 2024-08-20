@@ -46,3 +46,7 @@ Hailing from Austria, I specialize in C# and web development, with a keen intere
 <h3 align="center">
   <a href="https://github.com/FlossenMonster/TDG-Godot_4.2.2_ARPG"> 📜 Final Thesis Project : Top-Down ARPG "TitleWorkInProgress" ⚔️ </a>
 </h3>
+
+<h3 align="center">
+  <a href="https://github.com/FlossenMonster/NeoCities-Site"> 🔨 Hobby Project : Wii Menu Recreation" 📑 </a>
+</h3>
